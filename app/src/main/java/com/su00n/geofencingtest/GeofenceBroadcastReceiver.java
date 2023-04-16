@@ -16,7 +16,7 @@ import java.util.List;
 
 public class GeofenceBroadcastReceiver extends BroadcastReceiver {
 
-    private static final String TAG = "GeofenceBroadcastReceiv";
+    private static final String TAG = "GeofenceBroadcastReceiver";
 
     @Override
     public void onReceive(Context context, Intent intent) {
